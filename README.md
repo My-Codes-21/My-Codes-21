@@ -1,47 +1,70 @@
-# 👋 Hi there, I'm Mohammed Sarfaraaz!
-
-🎓 I'm a passionate and curious programmer who enjoys building creative and practical tech solutions.  
-💡 I love learning new technologies and collaborating with others to solve real-world problems.
+<!-- Profile Header -->
+<div align="center">
+  <h1>Hi 👋, I'm Mohammed Sarfaraaz</h1>
+  <p>A passionate developer who loves building, learning, and collaborating.</p>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300" alt="coding gif" />
+</div>
 
 ---
 
-## 🛠️ Languages & Technologies I Use
+## 🛠️ Languages & Tools
 
-- 💻 **Java** – Core development, object-oriented programming
-- 🐍 **Python** – Scripting, automation, and AI/ML projects
-- 🌐 **HTML | CSS | JavaScript** – Web development fundamentals
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Mini Project: **Mini Minecraft**
-A fun and lightweight Minecraft clone demonstrating concepts like:
-- Game loop mechanics
-- Basic 3D graphics using Java
-- Block placement and destruction
-> 🧠 Built using Java, showcasing game development fundamentals
+### 🎮 Mini Project: Mini Minecraft
+> A simplified Minecraft clone built using Java. Focuses on basic game mechanics like block placement, 3D rendering, and player movement.
 
-### 🔹 Major Project: **Face Recognition System**
-A team-based major project focused on:
-- Real-time face detection and recognition
-- OpenCV and machine learning integration
-- GUI for user interaction and training dataset
-> 👥 Collaborated in a team to build and test the system using **Python**
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" width="250" alt="Mini Minecraft Placeholder" />
+  <p><i>Game mechanics demo using Java</i></p>
+</div>
+
+---
+
+### 👁️ Major Project: Face Recognition System
+> Real-time face detection and recognition system using Python, OpenCV, and machine learning.
+
+- Built a GUI for user-friendly interaction
+- Implemented dataset training and live camera feed detection
+- Collaborated as a team to divide modules and merge seamlessly
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="300" alt="Face Recognition" />
+  <p><i>Live face detection using OpenCV</i></p>
+</div>
 
 ---
 
 ## 🤝 Teamwork & Collaboration
 
-I strongly believe in the power of teamwork. During my major project, I worked closely with a group of talented peers where we:
-- Divided tasks effectively using version control (Git)
-- Held regular discussions for progress and troubleshooting
-- Ensured smooth integration of all components
+Working on the face recognition system taught me:
+- Effective Git usage in a team setting
+- Importance of task distribution and documentation
+- Communication and code reviews
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l41K3oQj8jM6hHEnW/giphy.gif" width="250" alt="Teamwork gif" />
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
-Feel free to explore my projects and connect with me:
-- 🔗 [GitHub Profile](https://github.com/My-Codes-21)
+- 🔗 [GitHub](https://github.com/My-Codes-21)
 - 📧 Email: mycodes21@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://quotes-gif-generator.onrender.com/quote?quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Quote by Cory House" />
+</div>
