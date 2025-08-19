@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <h1>Hi 👋, I'm Mohammed Sarfaraaz</h1>
+  <h1>Hi 👋, it's My-Codes-21</h1>
   <p>A passionate developer who loves building, learning, and collaborating.</p>
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300" alt="coding gif" />
 </div>
